@@ -1,0 +1,4 @@
+10-36-2019 00:36:09 root:INFO:_r=true;agfid=;a_port=8002;u_port=8074;r_port=8074;temp_file_dir=./;device_name=video0;
+10-36-2019 00:36:09 urllib3.connectionpool:DEBUG:Starting new HTTP connection (1): 39.108.80.53
+10-36-2019 00:36:09 urllib3.connectionpool:DEBUG:http://39.108.80.53:8074 "POST /v1/rn/gfid/create HTTP/1.1" 404 18
+10-36-2019 00:36:09 root:ERROR:_r=false;message=Create Gfid Fail: 404;
